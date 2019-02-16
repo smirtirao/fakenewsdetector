@@ -40,3 +40,5 @@ def get_news(api_key,options):
 
 
 get_news(api_key, {"q":user_input,"sortBy":"publishedAt","from":"2019-01-10"})
+
+# Added git to this project
